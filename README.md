@@ -19,9 +19,11 @@
      * [Q9. Do creators spend less time on free courses compared to paid?](#q9-do-creators-spend-less-time-on-free-courses-compared-to-paid)
      * [Q10. Avg Course Duration by Level and Type](#q10-avg-course-duration-by-level-and-type)
      * [Q11. What are the Top 5 Course by numbers of subscribers and Show Course type (Free/Paid)?](h#q11-what-are-the-top-5-course-by-numbers-of-subscribers-and-show-course-type-freepaid)
-5.[Footer](
 
+5. [Full Dashboard](#full-dashboard-view)
+6. [Footer](#created--presented-by--saddam-ansari--aspiring-data-analyst)
 
+#
 
 ### About Udemy
 Udemy, Inc. is an education technology company that provides an online learning and teaching platform. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.

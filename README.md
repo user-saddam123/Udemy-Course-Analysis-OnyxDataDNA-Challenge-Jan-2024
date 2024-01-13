@@ -18,7 +18,7 @@
      * [Q8. What is a correlation between courses subject and Reviews?](#q8--what-is-a-correlation-between-courses-subject-and-reviews)
      * [Q9. Do creators spend less time on free courses compared to paid?](#q9-do-creators-spend-less-time-on-free-courses-compared-to-paid)
      * [Q10. Avg Course Duration by Level and Type](#q10-avg-course-duration-by-level-and-type)
-     * [Q11. What are the Top 5 Course by numbers of subscribers and Show Course type (Free/Paid)?](h#q11-what-are-the-top-5-course-by-numbers-of-subscribers-and-show-course-type-freepaid)
+     * [Q11. What are the Top 5 Course by numbers of subscribers and Show Course type (Free/Paid)?](#q11-what-are-the-top-5-course-by-numbers-of-subscribers-and-show-course-type-freepaid)
 
 5. [Full Dashboard](#full-dashboard-view)
 6. [Footer](#created--presented-by--saddam-ansari--aspiring-data-analyst)

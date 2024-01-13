@@ -2,6 +2,27 @@
 ## Created & Analyzed by Saddam Ansari @Aspirirng Data Analyst [Linkedin](https://www.linkedin.com/in/saddam-ansari-dataanalyst/)
 
 
+### Table of Content
+ 1. [About Udemy](#about-udemy)
+ 2. [Project Objective](#objective-of-the-project)
+ 3. [Tools Used](#tools-used)
+ 4. [Questions](#top-problem-statement-solved-through-this-project)
+     * [Q1. Show Total Course & How many courses are paid or free?](#q1show-total-course--how-many-courses-are-paid-or-free)
+     * [Q2. Kpi's](#q2-creat-kpis-for--total-subscribers-revenue-avg-course-price-avg-course-duration-total-reveiws-and-total-lectures)
+     * [Q3. Which year were the most courses published?](#q3--which-year-were-the-most-courses-published)
+     * [Q4. Which year were the most revenue generated?](#q4-which-year-were-the-most-revenue-generated)
+     * [Q5. Which category/subject has the most subscribers?](#q5-which-categorysubject-has-the-most-subscribers)
+     * [Q6. Which category/subject has the most revenue generated?](#q6-which-categorysubject-has-the-most-revenue-generated)     
+     * [Q6. Create a table of subject based on total lecture, Avg Price and Avg Duration](#q6-create-a-table-of-subject-based-on-total-lecture-avg-price-and-avg-duration)
+     * [Q7. How is the relationship between subscribers and Price?](#q7--how-is-the-relationship-between-subscribers-and-price)
+     * [Q8. What is a correlation between courses subject and Reviews?](#q8--what-is-a-correlation-between-courses-subject-and-reviews)
+     * [Q9. Do creators spend less time on free courses compared to paid?](#q9-do-creators-spend-less-time-on-free-courses-compared-to-paid)
+     * [Q10. Avg Course Duration by Level and Type](#q10-avg-course-duration-by-level-and-type)
+     * [Q11. What are the Top 5 Course by numbers of subscribers and Show Course type (Free/Paid)?](h#q11-what-are-the-top-5-course-by-numbers-of-subscribers-and-show-course-type-freepaid)
+5.[Footer](
+
+
+
 ### About Udemy
 Udemy, Inc. is an education technology company that provides an online learning and teaching platform. It was founded in May 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar.
 
@@ -126,7 +147,16 @@ Moreover, a level-wise analysis reinforces this observation, clearly indicating 
 
 The top 5 courses by subscribers all belong to the 'Web Development' subject. Among these, 3 courses are free, and 2 are paid. Notably, the course with the highest number of subscribers is a free web development course, followed by another free course in the second position. The third-ranking course is paid, and the fourth and fifth positions are secured by free and paid web development courses, respectively.
 
+#
+
+
 ### Full Dashboard View
 ![Onyx Data Challenge- Udemy Course Analysis_page-0001](https://github.com/user-saddam123/Udemy-Course-Analysis-OnyxDataDNA-Challenge-Jan-2024/assets/123800896/c649ec76-9f9e-47da-b678-43ad32a126de)
 
 
+
+##### Created & Presented by -Saddam Ansari @ Aspiring Data Analyst
+
+Date- 03/01/2024
+
+Place- Bihar, India
